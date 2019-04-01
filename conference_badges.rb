@@ -1,5 +1,5 @@
 # Write your code here.
-arr = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+#arr = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 def badge_maker(name)
   "Hello, my name is #{name}."
 end
@@ -32,7 +32,7 @@ def printer(name)
   end
 end
 
-printer(arr)
+#printer(arr)
 #assign_rooms(arr)
 
 #batch_badge_creator(arr)
